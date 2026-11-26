@@ -1,0 +1,47 @@
+{
+  "application": "Aidfinity",
+  "donations": [
+    {
+      "donationID": "DON-001",
+      "userID": "U001",
+      "donorName": "Alex",
+      "category": "Food",
+      "itemName": "Canned Goods",
+      "itemQuantity": 20,
+      "cashAmount": 0,
+      "dateRecorded": "2026-11-26",
+      "distributionMethod": "Facility-based",
+      "recipientID": "SHELTER-001",
+      "donationStatus": "Pending",
+      "dateFulfilled": null
+    },
+    {
+      "donationID": "DON-002",
+      "userID": "U002",
+      "donorName": "Jamie",
+      "category": "Clothing",
+      "itemName": "Shirts",
+      "itemQuantity": 15,
+      "cashAmount": 0,
+      "dateRecorded": "2026-11-26",
+      "distributionMethod": "Direct-to-household",
+      "recipientID": "REC-001",
+      "donationStatus": "Fulfilled",
+      "dateFulfilled": "2026-11-27"
+    },
+    {
+      "donationID": "DON-003",
+      "userID": "U001",
+      "donorName": "Alex",
+      "category": "Money",
+      "itemName": null,
+      "itemQuantity": 0,
+      "cashAmount": 500,
+      "dateRecorded": "2026-11-26",
+      "distributionMethod": "Facility-based",
+      "recipientID": "SHELTER-002",
+      "donationStatus": "Pending",
+      "dateFulfilled": null
+    }
+  ]
+}
